@@ -1,0 +1,77 @@
+<style>
+body {
+    font-size: 100%;
+}
+
+table{
+	border: 1px solid black;
+	margin-left: auto;
+    margin-right: auto;
+	width: 90%;
+	background-color: black;
+}
+
+table.dialog{
+	border: 0px;
+	width: 70%;
+	background-color: #CCA300;
+}
+
+td{
+	font-size: 0.85em;
+	text-align: center;
+}
+
+td.nametag{
+	font-weight: bold;
+	font-size: 0.6em;
+	width: 25%;
+	border: 0px;
+	text-align: center;
+}
+
+img.thumbnail{
+	width: 80px;
+	height: 80px;
+}
+	
+div {
+    background-color: #6E2525;
+    padding: 1px 15px 1px 15px;
+    border: 0px;
+    margin: 15px;
+}
+
+div.problem {
+	font-size: 0.85em;
+	background-color: #B2B2B2;
+    padding: 1px 5px 1px 5px;
+    border: 0px;
+    margin: 0px 39px 0px 39px;
+}
+
+p.story, pre.story {
+	font-size: 1.5em;
+	color: white;
+	text-align: center;
+}
+
+p.title {
+	font-size: 3em;
+	color: #6E2525;
+	text-align: center;
+}
+p.subtitle {
+	font-size: 2em;
+	color: white;
+}
+
+a:link {
+color:#ffffff; background-color:transparent; text-decoration:underline}
+a:visited {
+color:#ffffff; background-color:transparent; text-decoration:underline}
+a:hover   {
+color:#CCA300; background-color:transparent; text-decoration:underline}
+a:active  {
+color:#ffffff; background-color:transparent; text-decoration:underline}
+</style>
